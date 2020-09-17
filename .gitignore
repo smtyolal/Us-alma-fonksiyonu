@@ -1,3 +1,6 @@
+#include <stdio.h>
+
+int main(){
 
 npow(int taban, int us){
 
@@ -7,3 +10,4 @@ int temp=1;
       temp *= taban;
 
    }
+}
